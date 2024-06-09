@@ -3,15 +3,19 @@
 
 
 .conatiner{
-    text-align : center;
+    
+    padding-top: 30px;
     height: 100vh;
+    width: 100%;
+    background-size: cover;
     background: linear-gradient(to bottom, rgb(52, 209, 212), rgb(98, 194, 98), rgb(115, 175, 176));
 }
 .innerDiv{
+    margin-top:30px
     background-color: white;
     padding: 20px;
     border-radius: 10px;
-    height: 70vh;
+    margin: auto;
     width: 50vw;
     background: linear-gradient(to bottom, rgb(212, 129, 52), rgb(215, 231, 93));
     box-shadow: 10px 10px 10px 0 rgba(0, 0, 0, 0.1);
