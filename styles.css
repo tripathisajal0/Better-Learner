@@ -10,11 +10,11 @@ body{
     background: radial-gradient( rgb(52, 209, 212), rgb(98, 194, 98), rgb(115, 175, 176));
 }
 .innerDiv{
-    margin-top:30px;
+    
     text-align:center;
     padding: 20px;
     border-radius: 10px;
-    margin: auto;
+
     width: 50vw;
     background: linear-gradient(to bottom, rgb(212, 129, 52), rgb(215, 231, 93));
     box-shadow: 10px 10px 10px 0 rgba(0, 0, 0, 0.1);
